@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\bin\Debug\dikdortgen alan ve cevre.exe.config
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\bin\Debug\dikdortgen alan ve cevre.exe
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\bin\Debug\dikdortgen alan ve cevre.pdb
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen_alan_ve_cevre.lblKenar2.resources
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen_alan_ve_cevre.Properties.Resources.resources
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.exe
+C:\Users\User\source\repos\dikdortgen alan ve cevre\dikdortgen alan ve cevre\obj\Debug\dikdortgen alan ve cevre.pdb
